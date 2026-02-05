@@ -1,0 +1,15 @@
+# Ignorer l'environnement virtuel
+.venv/
+env/
+venv/
+
+# Ignorer les caches Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignorer les fichiers système Mac (si tu es sur Mac)
+.DS_Store
+
+# Ignorer les clés API ou configs sensibles (sécurité)
+.env
